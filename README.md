@@ -2,7 +2,7 @@
  This repository contains a Node.js application for understanding the basic of node and javascript fundamentals.
 
 ## Prerequisites
-- Node.js (v14.0.0 or higher)
+- Node.js (v16.0.0 or higher)
 - npm (Node Package Manager)
 
 ## Usage :
